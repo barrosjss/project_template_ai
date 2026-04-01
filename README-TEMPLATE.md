@@ -5,7 +5,7 @@
 ---
 
 ## 🎯 Visión y Propósito
-[Explica por qué existe este repositorio, qué problema resuelve y quiénes son los usuarios principales. Este es el primer contacto del Agente de IA con la intención humana del proyecto].
+[Explica por qué existe este repositorio, qué problema resuelve y quiénes son los usuarios principales. Este es el primer contacto del Agente de IA con la intención humana del proyecto]. Para más detalle sobre el Know-How del negocio, consulta el directorio `knowledge/`.
 
 ## 🛠️ Tecnologías Principales
 - **Front-end**: [Ej: React / Next.js / Vanilla CSS]

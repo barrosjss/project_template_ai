@@ -2,10 +2,11 @@
 
 Este archivo es la **fuente de verdad suprema** para cualquier agente de IA. No repitas información que ya existe en el código o estructura de carpetas (`ls`). Concéntrate en lo no obvio y las pautas que un humano prioriza.
 
-## 🏛️ Autoridad Técnica
-Si tienes dudas sobre el diseño o el historial de decisiones, consulta:
+## 🏛️ Autoridad Técnica y de Negocio
+Si tienes dudas sobre el **por qué (negocio)** o el **cómo (técnico)**, consulta:
+- `knowledge/vision.md`: Propósito, modelo de negocio e identidad.
 - `docs/architecture.md`: Diseño global del sistema.
-- `docs/decisions/`: ADRs que explican los "por qués" históricos.
+- `docs/decisions/`: ADRs que explican los "por qués" históricos técnicos.
 
 ## 📜 Reglas de Oro (No Obvias)
 Aquello que no puedes deducir del código y que los humanos priorizan:
