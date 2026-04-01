@@ -1,0 +1,16 @@
+# Cursor AI Rules
+
+- Siempre lee `CLAUDE.md` al inicio de cada sesión.
+- Sigue las convenciones de nomenclatura definidas en `src/**/CLAUDE.md` locales.
+- Consulta `docs/decisions/` antes de proponer cambios arquitectónicos.
+- Genera código limpio, minimalista y autometadocumentado.
+- Prioriza el uso de herramientas de diagnóstico antes de proponer soluciones a errores.
+
+## 🛠️ Herramientas Permitidas
+- `terminal`: Para ejecutar comandos build, test y dev.
+- `filesystem`: Para leer y escribir archivos siguiendo la estructura de la plantilla.
+
+---
+
+> [!NOTE]
+> Este archivo es específico para el editor Cursor, pero sus reglas complementan la arquitectura general de la plantilla.

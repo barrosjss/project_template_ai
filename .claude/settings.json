@@ -1,0 +1,16 @@
+{
+    "agent": {
+      "mode": "advanced",
+      "permissions": ["read", "write", "execute"],
+      "allowed_domains": ["api.openai.com", "anthropic.com", "google.com"]
+    },
+    "project": {
+      "name": "Project Template AI",
+      "version": "1.0.0",
+      "description": "Standard structure for AI-powered development."
+    },
+    "hooks": {
+      "pre-commit": "tools/scripts/pre-commit-check.sh",
+      "post-task": "tools/scripts/post-task-summary.sh"
+    }
+}
